@@ -1,9 +1,6 @@
 export default function Experience() {
   return (
-    <section
-      id="experience"
-      className=" px-12 py-12"
-    >
+    <section id="experience" className="border-b  border-slate-200 py-12">
       <h2 className="text-3xl font-bold">Expérience</h2>
 
       <p className="mt-6 text-slate-600">
