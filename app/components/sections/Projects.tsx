@@ -4,6 +4,7 @@ export default function Projects() {
       <h2 className="text-3xl font-bold">Projets</h2>
 
       <p className="mt-6 text-slate-600">Mes projets seront présentés ici.</p>
+      <p className="mt-4 text-2xl font-semibold">Coming soon...</p>
     </section>
   );
 }
